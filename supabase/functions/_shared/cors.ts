@@ -1,6 +1,6 @@
 export const corsHeaders = {
   // "Access-Control-Allow-Origin": "http://localhost:5173",
-  "Access-Control-Allow-Origin": "https://red-crm-black.vercel.app",
+  "Access-Control-Allow-Origin": "https://crm.wenine.nl",
   "Access-Control-Allow-Headers":
     "authorization, x-client-info, apikey, content-type",
   "Access-Control-Allow-Methods": "POST, PATCH, DELETE",
